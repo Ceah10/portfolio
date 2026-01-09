@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jules
+# 👋 Hi, I'm Kamau
 
 💻 Aspiring Web Developer & Cybersecurity Enthusiast  
 🌍 Open to freelance and junior roles  
