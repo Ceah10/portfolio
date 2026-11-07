@@ -9,7 +9,7 @@
 ## 🛠 Skills
 - HTML, CSS, JavaScript
 - Git & GitHub
-- Python (beginner)
+- Python [intermediate]
 - Web Security Basics (OWASP Top 10)
 
 ---
